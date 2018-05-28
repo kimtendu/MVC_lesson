@@ -1,2 +1,4 @@
-# MVC_lesson
-Simple site for MVC Lesson
+﻿<p>
+HI. <br>
+this is simple sample site for MVC lesson
+</p>
